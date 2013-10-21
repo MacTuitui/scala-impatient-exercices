@@ -86,8 +86,11 @@ but you can still do
 ### 1.10 ###
 
 take(n) selects the first n elements
+
 takeRight(n) selects the last n elements
+
 drop(n) "drops" the first n elements
+
 dropRight(n) drops the last n elements
 
 substring can do the same, but you might need to know the length of the string to use
