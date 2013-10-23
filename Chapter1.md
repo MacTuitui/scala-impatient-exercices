@@ -38,9 +38,10 @@ The res variables are "val".
 According to the Scaladoc at StringOps:
 Return the current string concatenated n times.
 
-### 1.5 ### 
+### 1.5 ###
 
 10 max 2 means 10.max(2) 
+
 It is then defined in RichInt. 
 
 ### 1.6 ###
