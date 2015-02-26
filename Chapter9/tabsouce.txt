@@ -1,0 +1,6 @@
+no tab in this line
+text	then tab	text
+	text1 text asdf 
+		tweasdf dfaasdf
+	asdf asdf asdf 		asdfsadf 		asdfasdf
+123456789 123456789 123456789 	tab
